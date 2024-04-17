@@ -6,7 +6,7 @@ This project is a coding challenge aimed at creating a responsive web page that 
 
 Copy code
 
-            git clone <repository-url>
+            git clone https://github.com/spheleleMakau/Facebook-like-Page-Layout.git
 
             
             Open the index.html file in your preferred web browser.
