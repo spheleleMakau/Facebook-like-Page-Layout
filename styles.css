@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color:black;
+    padding: 10px 20px;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+
+
+.footer-links li {
+    display: inline-block;
+}
+
+
+.footer-links li a {
+    text-decoration: none;
+    color: white /* Link color */
+}
+
+.footer-links li a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
